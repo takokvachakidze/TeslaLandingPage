@@ -41,6 +41,3 @@ span {
 .buttons {
   @apply absolute top-[85%] left-[50%];
 }
-.btn {
-  @apply text-medium uppercase text-red-600 ml-14;
-}
